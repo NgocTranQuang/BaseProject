@@ -1,4 +1,4 @@
-package com.f49.customer.util
+package com.vn.custom.util
 
 object Constant {
     val KEY_YES = "Yes"

@@ -1,9 +1,9 @@
-package com.f49.customer.activity.base
+package com.vn.custom.activity.base
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
-import com.f49.customer.dialog.DialogUtils
+import com.vn.custom.dialog.DialogUtils
 
 abstract class BaseActivity : AppCompatActivity() {
 

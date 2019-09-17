@@ -1,10 +1,10 @@
-package com.f49.customer.dialog
+package com.vn.custom.dialog
 
 import android.content.Context
 import android.text.TextUtils
 import androidx.appcompat.app.AlertDialog
-import com.f49.customer.R
-import com.f49.customer.util.Constant
+import com.vn.custom.R
+import com.vn.custom.util.Constant
 
 
 object DialogUtils {

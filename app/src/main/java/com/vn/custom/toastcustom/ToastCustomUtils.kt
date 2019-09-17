@@ -1,11 +1,11 @@
-package com.f49.customer.toastcustom
+package com.vn.custom.toastcustom
 
 import android.content.Context
 import android.graphics.Color
 import android.view.Gravity
 import android.widget.TextView
 import android.widget.Toast
-import com.f49.customer.R
+import com.vn.custom.R
 
 object ToastCustomUtils {
 

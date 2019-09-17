@@ -1,7 +1,8 @@
-package com.f49.customer
+package com.vn.app
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.vn.custom.R
 
 class MainActivity : AppCompatActivity() {
 

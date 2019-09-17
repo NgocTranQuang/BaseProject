@@ -1,4 +1,4 @@
-package com.f49.customer.activity.base
+package com.vn.custom.activity.base
 
 import androidx.lifecycle.MutableLiveData
 
